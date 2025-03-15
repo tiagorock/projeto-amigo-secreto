@@ -7,6 +7,6 @@ CSS3: Estilização da interface, com uso de variáveis CSS para facilitar a man
 
 JavaScript: Lógica para adicionar participantes, sortear um amigo secreto e exibir o resultado.
 
-Google Fonts: Fontes personalizadas para melhorar a aparência do projeto.
 
-Git e GitHub: Versionamento e hospedagem do código.
+
+
